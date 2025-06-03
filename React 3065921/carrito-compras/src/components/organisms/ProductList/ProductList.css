@@ -1,0 +1,14 @@
+/* src/components/organisms/ProductList/ProductList.css */
+.product-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 100vh;
+  justify-items: center;
+  align-items: start;
+  position: relative;
+  z-index: 1;
+}

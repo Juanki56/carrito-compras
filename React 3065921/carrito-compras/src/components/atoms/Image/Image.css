@@ -1,0 +1,6 @@
+/* src/components/atoms/Image/Image.css */
+.image {
+  max-width: 100%; /* Asegura que la imagen no se desborde de su contenedor */
+  height: auto;    /* Mantiene la proporción de la imagen */
+  display: block;  /* Elimina espacio extra debajo de la imagen si está dentro de un inline */
+}

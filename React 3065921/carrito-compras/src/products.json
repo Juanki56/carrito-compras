@@ -1,0 +1,64 @@
+[  {
+    "id": 1,
+    "name": "Laptop HP Pavilion",
+    "image": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_SL1500_.jpg",
+    "price": 899.99,
+    "description": "Potente laptop para trabajo y entretenimiento con procesador Intel Core i7 y 16GB de RAM."
+  },  {
+    "id": 2,
+    "name": "Smartphone Samsung Galaxy S24",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/es/2401/gallery/es-galaxy-s24-s928-sm-s928bzegeba-thumb-539658593?imwidth=720",
+    "price": 1299.00,
+    "description": "El último smartphone de Samsung con cámara de alta resolución y pantalla Dynamic AMOLED 2X."
+  },{
+    "id": 3,
+    "name": "Auriculares Sony WH-1000XM5",
+    "image": "https://m.media-amazon.com/images/I/61+btxzpfDL._AC_SL1500_.jpg",
+    "price": 349.00,
+    "description": "Auriculares con cancelación de ruido líderes en la industria para una experiencia auditiva inmersiva."
+  },
+  {
+    "id": 4,
+    "name": "Monitor Dell UltraSharp 27\"",
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/u-series/u2723qe/media-gallery/monitor-u2723qe-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402",
+    "price": 499.50,
+    "description": "Monitor de 27 pulgadas con resolución QHD y panel IPS para colores vibrantes y amplios ángulos de visión."
+  },  {
+    "id": 5,
+    "name": "Teclado Mecánico HyperX Alloy Origins",
+    "image": "https://media.kingston.com/hyperx/features/hx-features-keyboard-alloy-elite-2-red-switch-mechanical-keyboard.jpg",
+    "price": 109.99,
+    "description": "Teclado mecánico compacto con interruptores HyperX Red para gaming de alto rendimiento."
+  },{
+    "id": 6,
+    "name": "Mouse Logitech MX Master 3S",
+    "image": "https://resource.logitech.com/w_800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-graphite.png?v=1",
+    "price": 99.99,
+    "description": "Mouse ergonómico avanzado con desplazamiento MagSpeed y sensor de 8000 DPI."
+  },  {
+    "id": 7,
+    "name": "Smartwatch Apple Watch Series 9",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s9-41-alum-starlight-sport-band-starlight-large?wid=840&hei=1000&fmt=jpeg&qlt=95&.v=1693527740096",
+    "price": 429.00,
+    "description": "El último smartwatch de Apple con funcionalidades de salud avanzadas y una pantalla más brillante."
+  },
+  {
+    "id": 8,
+    "name": "Tablet Apple iPad Air (5th Gen)",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadair-digitalmat-gallery-1-202203?wid=728&hei=666&fmt=png-alpha&.v=1644962768135",
+    "price": 599.00,
+    "description": "Potente tablet con chip M1, pantalla Liquid Retina y soporte para Apple Pencil y Magic Keyboard."
+  },  {
+    "id": 9,
+    "name": "Cámara Fujifilm X-T5",
+    "image": "https://fujifilm-x.com/wp-content/uploads/2022/11/x-t5_feature01_03.jpg",
+    "price": 1699.00,
+    "description": "Cámara sin espejo con sensor de 40.2MP y grabación de video 6.2K para fotógrafos profesionales."
+  },  {
+    "id": 10,
+    "name": "Router Wi-Fi TP-Link Archer AX55",
+    "image": "https://www.tp-link.com/content/images/archer-ax55/kv11.png",
+    "price": 119.99,
+    "description": "Router Wi-Fi 6 de doble banda con velocidades de hasta 3000 Mbps para una conexión rápida y estable."
+  }
+]

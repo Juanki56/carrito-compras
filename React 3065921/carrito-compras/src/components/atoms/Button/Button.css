@@ -1,0 +1,30 @@
+/* src/components/atoms/Button/Button.css */
+.button {
+  background-color: #007bff; /* Color de fondo azul */
+  color: white; /* Color de texto blanco */
+  padding: 10px 20px; /* Relleno interno */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cursor de puntero al pasar por encima */
+  font-size: 1em; /* Tamaño de fuente */
+  transition: background-color 0.3s ease; /* Transición suave para el hover */
+}
+
+.button:hover {
+  background-color: #0056b3; /* Color de fondo más oscuro al pasar el ratón */
+}
+
+.button:disabled {
+  background-color: #cccccc; /* Color de fondo gris para botones deshabilitados */
+  cursor: not-allowed; /* Cursor de "no permitido" */
+}
+
+/* Puedes añadir más clases para diferentes estilos de botón */
+/* Por ejemplo, un botón secundario */
+.button.secondary {
+  background-color: #6c757d;
+}
+
+.button.secondary:hover {
+  background-color: #5a6268;
+}
