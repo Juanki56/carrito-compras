@@ -77,7 +77,7 @@ const ProductCard = ({ product, onAddToCart }) => {
           className="product-card__add-button"
           aria-label={`Agregar ${name} al carrito`}
         >
-          Agregar al Carrito
+          Agregar al Carrit
         </Button>
       </div>
     </article>
