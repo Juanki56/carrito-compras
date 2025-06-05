@@ -7,7 +7,7 @@
   },  {
     "id": 2,
     "name": "Smartphone Samsung Galaxy S24",
-    "image": "https://images.samsung.com/is/image/samsung/p6pim/es/2401/gallery/es-galaxy-s24-s928-sm-s928bzegeba-thumb-539658593?imwidth=720",
+    "image": "https://www.phonelectrics.com/cdn/shop/files/SamGalaxyS24-4.jpg?v=1710528539",
     "price": 1299.00,
     "description": "El último smartphone de Samsung con cámara de alta resolución y pantalla Dynamic AMOLED 2X."
   },{
@@ -26,7 +26,7 @@
   },  {
     "id": 5,
     "name": "Teclado Mecánico HyperX Alloy Origins",
-    "image": "https://media.kingston.com/hyperx/features/hx-features-keyboard-alloy-elite-2-red-switch-mechanical-keyboard.jpg",
+    "image": "https://co-media.hptiendaenlinea.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/5/6/56R64AA-2_T1679069850.png",
     "price": 109.99,
     "description": "Teclado mecánico compacto con interruptores HyperX Red para gaming de alto rendimiento."
   },{
@@ -38,7 +38,7 @@
   },  {
     "id": 7,
     "name": "Smartwatch Apple Watch Series 9",
-    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s9-41-alum-starlight-sport-band-starlight-large?wid=840&hei=1000&fmt=jpeg&qlt=95&.v=1693527740096",
+    "image": "https://www.ishop.mu/storage/site-images/product/large/series-9-18985-64406.png",
     "price": 429.00,
     "description": "El último smartwatch de Apple con funcionalidades de salud avanzadas y una pantalla más brillante."
   },
@@ -51,13 +51,13 @@
   },  {
     "id": 9,
     "name": "Cámara Fujifilm X-T5",
-    "image": "https://fujifilm-x.com/wp-content/uploads/2022/11/x-t5_feature01_03.jpg",
+    "image": "https://www.grover.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fgrover%2Fimage%2Fupload%2Fe_trim%2Fb_white%2Cc_pad%2Cdpr_2.0%2Ch_500%2Cw_520%2Ff_auto%2Cq_auto%2Fv1673622061%2Fwvpa1prhuicnuos3e5am.png&w=1920&q=75",
     "price": 1699.00,
     "description": "Cámara sin espejo con sensor de 40.2MP y grabación de video 6.2K para fotógrafos profesionales."
   },  {
     "id": 10,
     "name": "Router Wi-Fi TP-Link Archer AX55",
-    "image": "https://www.tp-link.com/content/images/archer-ax55/kv11.png",
+    "image": "https://m.media-amazon.com/images/I/61O4qvVY6XL._AC_SL1500_.jpg",
     "price": 119.99,
     "description": "Router Wi-Fi 6 de doble banda con velocidades de hasta 3000 Mbps para una conexión rápida y estable."
   }
